@@ -5,12 +5,12 @@ compatibility: Node.js 22+, npm, Git, MariaDB
 license: MIT
 metadata:
   author: Tossaworn Srinutchasart
-  version: "3.0.0"
+  version: "4.0.0"
 ---
 
 # Project Onboarding Skill
 
-ช่วย developer ใหม่เข้าใจ project นี้จาก clone ไปจนรัน local ได้ โดยต้องอ้างอิงจากไฟล์จริงใน repo ก่อนตอบ
+ช่วย developer ใหม่เข้าใจ project นี้จาก clone ไปจนรัน local ได้ โดยต้องอ้างอิงจากไฟล์จริงใน repo ก่อนตอบ 1
 
 ## Gotchas
 
